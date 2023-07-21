@@ -2,6 +2,9 @@
 
 디스코드 웹훅에 대한 API 라이브러리입니다.
 
+jar 다운로드는 release탭으로 이동하시거나 아래 링크를 통해 바로 이동 가능합니다.
+
+https://github.com/0113bernoyoun/easy-discord-webhook-api/releases
 
 ## 의존성
 jdk17을 기준으로 만들었습니다.
